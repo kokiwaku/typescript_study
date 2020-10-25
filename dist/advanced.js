@@ -82,3 +82,4 @@ var peter = {
     name: 'peter',
     age: 29,
 };
+//# sourceMappingURL=advanced.js.map
