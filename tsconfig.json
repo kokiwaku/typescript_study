@@ -16,7 +16,7 @@
     // "declaration": true,                   /* Generates corresponding '.d.ts' file. */
     // "declarationMap": true,                /* Generates a sourcemap for each corresponding '.d.ts' file. */
     // ブラウザ上でtypescriptを見ることができる
-    // "sourceMap": true,                     /* Generates corresponding '.map' file. */
+    "sourceMap": true,                     /* Generates corresponding '.map' file. */
     // "outFile": "./",                       /* Concatenate and emit output to single file. */
     // コンパイルしたjsファイルの出力先を指定
     "outDir": "./dist",                        /* Redirect output structure to the directory. */

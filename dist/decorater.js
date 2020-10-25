@@ -26,3 +26,4 @@ var User = /** @class */ (function () {
 var user1 = new User();
 var user2 = new User();
 var user3 = new User();
+//# sourceMappingURL=decorater.js.map

@@ -42,3 +42,4 @@ lightDatabase.add('Apple');
 lightDatabase.remove('Banana');
 console.log(lightDatabase.get());
 var Tmp;
+//# sourceMappingURL=generics.js.map

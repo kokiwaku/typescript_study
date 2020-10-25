@@ -78,3 +78,4 @@ var Teacher = /** @class */ (function (_super) {
 var teacher = Teacher.getInstance();
 var teacher2 = Teacher.getInstance();
 console.log(teacher, teacher2);
+//# sourceMappingURL=class.js.map
